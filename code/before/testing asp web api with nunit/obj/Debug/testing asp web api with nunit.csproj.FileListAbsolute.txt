@@ -1,0 +1,19 @@
+C:\programming\learninghabits_material\25 - Testing ASP.NET Web API With NUnit\testing asp web api with nunit\code\before\testing asp web api with nunit\bin\testing_asp_web_api_nunit.dll.config
+C:\programming\learninghabits_material\25 - Testing ASP.NET Web API With NUnit\testing asp web api with nunit\code\before\testing asp web api with nunit\bin\testing_asp_web_api_nunit.dll
+C:\programming\learninghabits_material\25 - Testing ASP.NET Web API With NUnit\testing asp web api with nunit\code\before\testing asp web api with nunit\bin\testing_asp_web_api_nunit.pdb
+C:\programming\learninghabits_material\25 - Testing ASP.NET Web API With NUnit\testing asp web api with nunit\code\before\testing asp web api with nunit\bin\Newtonsoft.Json.dll
+C:\programming\learninghabits_material\25 - Testing ASP.NET Web API With NUnit\testing asp web api with nunit\code\before\testing asp web api with nunit\bin\System.Net.Http.Extensions.dll
+C:\programming\learninghabits_material\25 - Testing ASP.NET Web API With NUnit\testing asp web api with nunit\code\before\testing asp web api with nunit\bin\System.Net.Http.Formatting.dll
+C:\programming\learninghabits_material\25 - Testing ASP.NET Web API With NUnit\testing asp web api with nunit\code\before\testing asp web api with nunit\bin\System.Net.Http.Primitives.dll
+C:\programming\learninghabits_material\25 - Testing ASP.NET Web API With NUnit\testing asp web api with nunit\code\before\testing asp web api with nunit\bin\System.Web.Http.dll
+C:\programming\learninghabits_material\25 - Testing ASP.NET Web API With NUnit\testing asp web api with nunit\code\before\testing asp web api with nunit\bin\System.Web.Http.WebHost.dll
+C:\programming\learninghabits_material\25 - Testing ASP.NET Web API With NUnit\testing asp web api with nunit\code\before\testing asp web api with nunit\bin\Newtonsoft.Json.xml
+C:\programming\learninghabits_material\25 - Testing ASP.NET Web API With NUnit\testing asp web api with nunit\code\before\testing asp web api with nunit\bin\System.Net.Http.Extensions.xml
+C:\programming\learninghabits_material\25 - Testing ASP.NET Web API With NUnit\testing asp web api with nunit\code\before\testing asp web api with nunit\bin\System.Net.Http.Formatting.xml
+C:\programming\learninghabits_material\25 - Testing ASP.NET Web API With NUnit\testing asp web api with nunit\code\before\testing asp web api with nunit\bin\System.Net.Http.Primitives.xml
+C:\programming\learninghabits_material\25 - Testing ASP.NET Web API With NUnit\testing asp web api with nunit\code\before\testing asp web api with nunit\bin\System.Web.Http.xml
+C:\programming\learninghabits_material\25 - Testing ASP.NET Web API With NUnit\testing asp web api with nunit\code\before\testing asp web api with nunit\bin\System.Web.Http.WebHost.xml
+C:\programming\learninghabits_material\25 - Testing ASP.NET Web API With NUnit\testing asp web api with nunit\code\before\testing asp web api with nunit\obj\Debug\testing asp web api with nunit.csproj.App.config
+C:\programming\learninghabits_material\25 - Testing ASP.NET Web API With NUnit\testing asp web api with nunit\code\before\testing asp web api with nunit\obj\Debug\testing asp web api with nunit.csprojResolveAssemblyReference.cache
+C:\programming\learninghabits_material\25 - Testing ASP.NET Web API With NUnit\testing asp web api with nunit\code\before\testing asp web api with nunit\obj\Debug\testing_asp_web_api_nunit.dll
+C:\programming\learninghabits_material\25 - Testing ASP.NET Web API With NUnit\testing asp web api with nunit\code\before\testing asp web api with nunit\obj\Debug\testing_asp_web_api_nunit.pdb
